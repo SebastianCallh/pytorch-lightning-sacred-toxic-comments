@@ -1,0 +1,13 @@
+-e src
+cython
+pytorch-lightning
+transformers
+sentencepiece
+jupyterlab
+ipywidgets
+pandas
+seaborn
+sklearn
+tensorboard
+sacred
+pymongo
