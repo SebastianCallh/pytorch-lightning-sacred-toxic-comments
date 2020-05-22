@@ -1,2 +1,2 @@
-# Multilingual platform
-Repo for experiments related to multilingual platform
+# Torch lightning text classification
+Example repor
