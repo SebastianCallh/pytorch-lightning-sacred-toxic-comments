@@ -1,2 +1,2 @@
 # Torch lightning text classification
-Example repor
+Example repo
